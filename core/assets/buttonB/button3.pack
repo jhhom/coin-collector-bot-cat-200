@@ -1,0 +1,33 @@
+
+button3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+green_button00
+  rotate: false
+  xy: 1, 52
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+green_button03
+  rotate: false
+  xy: 1, 5
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+blue_button06
+  rotate: false
+  xy: 193, 52
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+grey_button07
+  rotate: false
+  xy: 193, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
